@@ -1,0 +1,17 @@
+body{
+    background-color:lightpink;
+}
+
+img{
+    max-width: 100%; 
+    height: auto; 
+    background: gray;
+    background:radial-gradient(white 30%, pink 70%);
+}
+
+.fa-star, 
+.fa-star-half{
+    color: black; 
+    padding: 3% 0%;
+}
+
